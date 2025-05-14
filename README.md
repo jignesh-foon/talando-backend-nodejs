@@ -26,7 +26,7 @@ cp env.example .env
 
 ### Docs
 
-- [API Documentation](docs/index.md)
+- [API Documentation](src/docs/index.md)
 
 ## Docker
 

@@ -107,7 +107,7 @@ Example
 
 **Query Params:** `id=681eed37688426a6c8ed3d2d`
 
-**Result:** It will returns a `true`
+**Result:** It will returns a `product details`
 
 ### `/api/product/delete`
 
@@ -117,4 +117,4 @@ Example
 
 **Params:** `id=681eed37688426a6c8ed3d2d`
 
-**Result:** It will returns product details
+**Result:** It will returns `true`
