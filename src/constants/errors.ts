@@ -1,0 +1,23 @@
+export const ERRORS = {
+  USER_UNAUTHORIZED: "User is not authorized",
+  FIRSTNAME_REQUIRED: "Firstname is required",
+  LASTNAME_REQUIRED: "Lastname is required",
+  USERNAME_REQUIRED: "Username is required",
+  PASSWORD_REQUIRED: "Password is required",
+  EMAIL_REQUIRED: "Email is required",
+  PHONE_CODE_REQUIRED: "Phone code is required",
+  PHONE_NO_REQUIRED: "Phone no is required",
+  USER_ALREADY_EXIST: "User already exist",
+  PLEASE_CHECK_CREDENTIALS:
+    "Username or Password incorrect, Please check credentials.",
+  NAME_REQUIRED: "Name is required",
+  SKU_REQUIRED: "SKU is required",
+  CODE_REQUIRED: "Code is required",
+  CATEGORY_ALREADY_EXIST: "Category is already exists",
+  PRODUCT_ALREADY_EXIST: "Product is already exists",
+  MONGO_SERVER_ERROR: "MongoServerError",
+  PRODUCT_NOT_FOUND: "Product not found.",
+  PLEASE_SELECT_FILE: "Please select the file",
+  TYPE_REQUIRED: "Media type is required",
+  PATH_REQUIRED: "Media path is required",
+};

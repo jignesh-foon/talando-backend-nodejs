@@ -1,0 +1,29 @@
+{
+	"compilerOptions": {
+	  "resolveJsonModule": true,
+	  "target": "ES2023",
+	  "lib": ["ES2023", "ESNext.AsyncIterable"],
+	  "typeRoots": [
+		"./src/types",
+		"./node_modules/@types",
+	  ],
+	  "allowSyntheticDefaultImports": true,
+	  "experimentalDecorators": true,
+	  "emitDecoratorMetadata": true,
+	  "forceConsistentCasingInFileNames": true,
+	  "moduleResolution": "node",
+	  "module": "CommonJS",
+	  "declaration": true,
+	  "pretty": true,
+	  "sourceMap": false,
+	  "rootDir": "src",
+	  "outDir": "build",
+	  "allowJs": true,
+	  "noEmit": false,
+	  "esModuleInterop": true,
+	  "strict": false,
+	  "skipLibCheck": true
+	},
+	"include": ["src/**/*"],
+	"exclude": ["node_modules"]
+  }

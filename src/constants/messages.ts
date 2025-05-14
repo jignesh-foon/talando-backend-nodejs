@@ -1,0 +1,17 @@
+export const MESSAGES = {
+  USER_REGISTERED_SUCCESS: "User registered successfully.",
+  USER_LOGGEDIN_SUCCESS: "User loggedin successfully.",
+  USER_VERIFY_SUCCESS: "User verified successfully.",
+  USER_LOGGED_OUT_SUCCESS: "User logout successfully.",
+  CATEGORY_FETCHED_SUCCESS: "Categories fetched successfully.",
+  CATEGORY_CREATED_SUCCESS: "Category created successfully.",
+  CATEGORY_UPDATED_SUCCESS: "Category updated successfully.",
+  CATEGORY_DELETED_SUCCESS: "Category deleted successfully.",
+  PRODUCT_FETCHED_SUCCESS: "Products fetched successfully.",
+  PRODUCT_DETAILS_FETCHED_SUCCESS: "Product details fetched successfully.",
+  PRODUCT_CREATED_SUCCESS: "Product created successfully.",
+  PRODUCT_UPDATED_SUCCESS: "Product updated successfully.",
+  PRODUCT_DELETED_SUCCESS: "Product deleted successfully.",
+  MEDIA_UPLOAD_SUCCESS: "Media uploaded successfully.",
+  MEDIA_REMOVED_SUCCESS: "Media removed successfully.",
+};
