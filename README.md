@@ -28,6 +28,12 @@ cp env.example .env
 
 - [API Documentation](src/docs/index.md)
 
+### Swagger
+
+```
+http://localhost:5000/api/documentation
+```
+
 ## Docker
 
 **1.** Build and start containers
